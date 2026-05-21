@@ -1,0 +1,2 @@
+# Detect-Project-
+Currently thinking 
